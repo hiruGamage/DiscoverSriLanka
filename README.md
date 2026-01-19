@@ -79,7 +79,7 @@ This project, including but not limited to its source code, content structure,
 design concepts, and documentation, is the intellectual property of:
 
 **Sahas Gamage**  
-GitHub: @SahasGamage  
+GitHub: @HiruGamage  
 Official Website: https://sgamage.site
 
 Unauthorized copying, redistribution, modification for commercial use, or deployment
